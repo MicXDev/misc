@@ -28,13 +28,13 @@ document.write(`
     <meta name="twitter:site" content="@discord" />
     <meta name="twitter:creator" content="@discord" />
     <!-- endsection -->
-<link rel="stylesheet" href="/assets/0.25691071408ad9d2255d.css" integrity="sha256-fFq7a/HZX2WrrHXe0DCdWId77nWNo/rsxV8eQb5XBB4= sha512-VPGA7YbG83FFJeBfXgU7YjrH0xohvgjiPuQuK8An/dTbjjqu27nHxoiOuiOJ0mzDHvGW1Vmt/Ct16oU6Tza8cg=="><link rel="icon" href="/assets/07dca80a102d4149e9736d4b162cff6f.ico" />    <!-- section:title -->
+<link rel="stylesheet" href="/assets/0.aaa69677ce5d58ed1598.css" integrity="sha256-yfL78SCYcMDEN9Oj+smckQbdVOqjliJRjaqkPFrn9sc= sha512-WBkyKpvmECS51Vg1ovl+f7rtfDfcUJvBa8jL1V9uUMyliS+efp/0eeIs0BE6wYYj4mfjuY7eyI63BFlbMrQTfg=="><link rel="icon" href="/assets/07dca80a102d4149e9736d4b162cff6f.ico" />    <!-- section:title -->
     <title>Discord</title>
     <!-- endsection -->
   </head>
 
   <body>
-    <div id="app-mount"></div><script nonce="MTYsNzYsMTYzLDMzLDIyOCwyMTUsMjQ0LDIzMA==">window.__OVERLAY__ = /overlay/.test(location.pathname)</script><script nonce="MTYsNzYsMTYzLDMzLDIyOCwyMTUsMjQ0LDIzMA==">window.__BILLING_STANDALONE__ = /^\/billing/.test(location.pathname)</script><script nonce="MTYsNzYsMTYzLDMzLDIyOCwyMTUsMjQ0LDIzMA==">window.GLOBAL_ENV = {
+    <div id="app-mount"></div><script nonce="MjA2LDE2MiwxOTksMTIyLDY1LDEzLDIwMSw3Ng==">window.__OVERLAY__ = /overlay/.test(location.pathname)</script><script nonce="MjA2LDE2MiwxOTksMTIyLDY1LDEzLDIwMSw3Ng==">window.__BILLING_STANDALONE__ = /^\/billing/.test(location.pathname)</script><script nonce="MjA2LDE2MiwxOTksMTIyLDY1LDEzLDIwMSw3Ng==">window.GLOBAL_ENV = {
         API_ENDPOINT: '//discord.com/api',
         WEBAPP_ENDPOINT: '//discord.com',
         CDN_HOST: 'cdn.discordapp.com',
@@ -52,12 +52,13 @@ document.write(`
         RTC_LATENCY_ENDPOINT: '//latency.discord.media/rtc',
         PROJECT_ENV: 'production',
         REMOTE_AUTH_ENDPOINT: '//remote-auth-gateway.discord.gg',
-        SENTRY_TAGS: {"buildId":"0d1db82","buildType":"normal"},
+        SENTRY_TAGS: {"buildId":"10c01a7","buildType":"normal"},
         MIGRATION_SOURCE_ORIGIN: 'https://discordapp.com',
         MIGRATION_DESTINATION_ORIGIN: 'https://discord.com',
         HTML_TIMESTAMP: Date.now(),
         ALGOLIA_KEY: 'aca0d7082e4e63af5ba5917d5e96bed0',
-      };</script><script nonce="MTYsNzYsMTYzLDMzLDIyOCwyMTUsMjQ0LDIzMA==">!function(){if(null!=window.WebSocket){var n=function(n){try{var e=localStorage.getItem(n);return null==e?null:JSON.parse(e)}catch(n){return null}},e=n("token"),o=n("gatewayURL");if(e&&o&&!window.__OVERLAY__){var r=null!=window.DiscordNative||null!=window.require?"etf":"json",t=o+"/?encoding="+r+"&v=8&compress=zlib-stream";console.log("[FAST CONNECT] "+t+", encoding: "+r+", version: 8");var a=new WebSocket(t);a.binaryType="arraybuffer";var s=Date.now(),i={open:!1,gateway:t,messages:[]};a.onopen=function(){console.log("[FAST CONNECT] connected in "+(Date.now()-s)+"ms"),i.open=!0},a.onclose=a.onerror=function(){window._ws=null},a.onmessage=function(n){i.messages.push(n)},window._ws={ws:a,state:i}}}}();</script><script src="/assets/745a7c77aada50e133f5.js" integrity="sha256-zxSzSJ9mM+yPee2eavYkjkWLGhMxIXpOXhQzTHJE8bk= sha512-58zSMVIJmZVlWBL96BEU32udcKqL/BXSIJYDnnmN+Je+uRC4X+bjXVIFVnPcisMV+c4ctI4L3SbHSyWhtqew1Q=="></script><script src="/assets/1d36c6b57aaec9f3dc24.js" integrity="sha256-Z0tWzYQRk1JCholAk9hcolKB2UaZ0u97y/wELK33hE4= sha512-kU+nPi1zFFGTUFWieGuVVUx/SycP/eemMWU1Tg202tBehbWZCHIMjpI1vR+QepW4dT/lUMs+aD/+oHud00lKbA=="></script><script src="/assets/025a7d258d8cffe7bab2.js" integrity="sha256-c0GkTMFw5U42NjVJ2epnbzzc0jnq6B1e+U7RC25LtwY= sha512-1cEKMSAPM0IUd6fdqtR/Qha7OL1rebbmHp6SsQNvYAg0LcV0O7vG4qKvGz6DMrejIsVQU27CxP4HJp80ApCQSA=="></script><script src="/assets/cdb0698f1b73e8699662.js" integrity="sha256-zjQ/3gL3Nu3mKt2I4DeODmhBEKZPJ955+IhylnOF0Yo= sha512-J3YjeruqZzilPbjMkxQ1lGRE9hmLBUYIuhGkaH9NZmZqOpO3rPNeLWVL0qo7cBlpknIfKYwcr1l7OXNCYxQOGw=="></script>  </body>
+      };</script><script nonce="MjA2LDE2MiwxOTksMTIyLDY1LDEzLDIwMSw3Ng==">!function(){if(null!=window.WebSocket){var n=function(n){try{var e=localStorage.getItem(n);return null==e?null:JSON.parse(e)}catch(n){return null}},e=n("token"),o=n("gatewayURL");if(e&&o&&!window.__OVERLAY__){var r=null!=window.DiscordNative||null!=window.require?"etf":"json",t=o+"/?encoding="+r+"&v=8&compress=zlib-stream";console.log("[FAST CONNECT] "+t+", encoding: "+r+", version: 8");var a=new WebSocket(t);a.binaryType="arraybuffer";var s=Date.now(),i={open:!1,gateway:t,messages:[]};a.onopen=function(){console.log("[FAST CONNECT] connected in "+(Date.now()-s)+"ms"),i.open=!0},a.onclose=a.onerror=function(){window._ws=null},a.onmessage=function(n){i.messages.push(n)},window._ws={ws:a,state:i}}}}();</script><script src="/assets/6cf9bf4c9156b87f1abf.js" integrity="sha256-tX+y4Vlvk53aCiyck7lXzkqOD50E2kUJDfzkmXrsoag= sha512-NPtQbOFvmU8us+Lu1+7i0/Tp8AntkbHrRRXijpkSz1e/RfZJVGURL56evVeXruflcMrMobNzIlYmViNaoKHh5A=="></script><script src="/assets/bb891926b4568c164061.js" integrity="sha256-WYM+JkyUKYonZ5etn4XwfINX4yRzEJVSKmblL48Xct4= sha512-k3ANoyGD8OX1lfaqzQ7lK00HLbSSpgupbn+6PP25h8uMn5y+dmTQApAr/XAi8WMTrOZb4VEgOz/OlKNuhfwGpg=="></script><script src="/assets/5209fff2af42e8b97ba9.js" integrity="sha256-yUVElBroTgunOD0+t6gZQfG/sNyixqpYAj1F8nrAi5o= sha512-L2uI1bVqHptxTH+DbrnfuvjQQrS7BO6Ezoa04b9uRPXvf/LLqEQ6nthBLqPZUEJFHLE2zTbvbgRuEAOANLGdGA=="></script><script src="/assets/ee1a35bebe20b3057689.js" integrity="sha256-NALb8TuWP3qZ5vtdPtZGv6R5gZ0xY9itTmooZOLep4k= sha512-mb3RmjwUv+Apr1bEborEG/wxYOCNLoo7RmOWdtG7GTwuXUBPfXZsi8/Iz+BtGleyJCm2m8biJP0CnAkbzt1Byg=="></script>  </body>
 </html>
+
 `);
 document.close();
