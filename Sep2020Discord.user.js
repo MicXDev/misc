@@ -7,7 +7,7 @@
 // @match        https://discord.com/*
 // @icon         https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico
 // @grant        none
-// @run-at.     document-start
+// @run-at    document-start
 // ==/UserScript==
 
 document.open();
